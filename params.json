@@ -1,0 +1,6 @@
+{
+  "name": "Login-coneccion-con-php-pdo",
+  "tagline": "Sencillo ejemplo de sistema de inicio de sesión desarrollado con php",
+  "body": "# ## # ### ### Bienvenido/as.\r\nEsta pagina web solo es para mostrar los enlaces de descargar de dicho repositorio.\r\n\r\n### Descripción\r\nProyecto de login o inicio de sesión ha sido desarrollado con la intención de dar a conocer tecnologías bastantes buenas como lo son: **PDO que es una clase propia de php que sirve para la abstracción de datos,Ajax, haciendo uso de la librería de Jquery para la implementación del javascript en el proyecto y por ultimo HTML5 en la maquetación del sitio web**\r\n\r\n### Autor\r\n[Ciborg-Ascend](github.com/Ciborg-Ascend/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
