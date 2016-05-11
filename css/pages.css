@@ -1,0 +1,44 @@
+.seccion {
+    width: 99%;
+    border: 1px solid;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.foot {
+    text-align: center;
+    width: 99%;
+    bottom: 0;
+    height: 33px;
+    position: absolute;
+}
+
+div.login{
+    box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    overflow: hidden;
+}
+.btn{
+    background: #000000;
+    color: #fff;
+    border: 0px;
+    width:80px;
+    height: 30px;
+    margin-top: 10px;
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: #151a1e;
+    color: #ffc700;
+}
+.label-left{
+    float: left;
+    margin-left: 14px;
+    text-decoration: underline;
+}
